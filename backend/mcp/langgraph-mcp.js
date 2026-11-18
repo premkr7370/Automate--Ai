@@ -15,6 +15,7 @@ const mcpAdapter = new MCPAdapter({
       args: [serverPath],
       env:{
         ...process.env
+      }
       
     },
   },
