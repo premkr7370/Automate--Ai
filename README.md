@@ -225,6 +225,4 @@ From `backend/`:
 
 - `npm run dev` — start the API with Nodemon.
 #
-#   A u t o m a t e - - a i  
- #   A u t o m a t e - - a i  
- 
+#
