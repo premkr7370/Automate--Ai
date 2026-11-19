@@ -28,9 +28,11 @@ This repository is a monorepo-style project with separate frontend and backend a
 - `backend/` — Express/Nodemon API server with MongoDB models, route handlers, AI logic, and platform integrations.
 
 The frontend and backend are installed and run independently; there is no root-level package script.
+<div align="center">
+  
 
 ![Thor GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFubTVtdmVqYmV0djNtY3VmM2RyeW82MWdjOGJyajJ4N2tkeWZqMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uDTezGiN4pibS/giphy.gif)
-
+</div>
 ## 🏗️ Tech stack
 
 - Frontend: React 19, Vite, Tailwind CSS
