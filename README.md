@@ -19,9 +19,11 @@ AutoMate AI helps users:
 - Store application data in MongoDB for agents, chats, and users
 
 This repository is a monorepo-style project with separate frontend and backend apps so each side can evolve independently while remaining connected through a defined API contract.
+<div align="center">
+  
 
 ![Captain America GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFjc3U2MWR5MjUxNXpqcDRmdXh5cjB5cGY3cThsc28zbjRocDA5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QgwXffX7n4tMY/giphy.gif)
-
+</div>
 ## 🧩 Project structure
 
 - `frontend/` — React 19 application with Vite and Tailwind CSS for the web experience.
